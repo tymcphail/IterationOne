@@ -1,2 +1,10 @@
 # Project Life Cycle
-This document outlines the Iteration 1 Deliverables for the Guide Book Pro project, a premium platform designed to provide an exclusive experience for high-end clients seeking bespoke fishing trips. It serves as a comprehensive overview of the initial development phase, including requirements analysis, system architecture design, and user interface mockups. The focus of this iteration is on establishing core features such as personalized trip booking, enhanced search capabilities, secure client access, and streamlined integration with CRM tools. The deliverables set the foundation for a user-centric platform that aims to elevate the booking experience while meeting the needs of an affluent, discerning clientele.
+This team-created document outlines the development of the Guide Book Pro project, a premium platform for bespoke fishing trips, from Iteration 1 to Iteration 5. Iteration 1 focused on establishing the foundation with requirements analysis, system architecture, and user interface mockups, prioritizing personalized trip booking and CRM integration. By Iteration 5, the project included refined class diagrams, normalized database design, advanced user interface prototypes, and project scheduling. This progression demonstrates the platform's evolution into a user-centric, sophisticated system tailored for high-end clients.
+# My Contributions
+I contributed to all areas of the project, but my specific areas of work are highlighted below
+- Database Diagram Narrative (I5)
+- User Interface Navigation Diagram and Screen Layouts (I5)
+- Class Diagram (I5)
+- Stakeholder and User Descriptions (I1)
+- Agile Stories (I1)
+
